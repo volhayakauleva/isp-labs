@@ -1,0 +1,6 @@
+D:\автокад\исп\lab3\lab3\bin\Debug\lab3.exe.config
+D:\автокад\исп\lab3\lab3\bin\Debug\lab3.exe
+D:\автокад\исп\lab3\lab3\bin\Debug\lab3.pdb
+D:\автокад\исп\lab3\lab3\obj\Debug\lab3.csprojResolveAssemblyReference.cache
+D:\автокад\исп\lab3\lab3\obj\Debug\lab3.exe
+D:\автокад\исп\lab3\lab3\obj\Debug\lab3.pdb
